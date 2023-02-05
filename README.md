@@ -1,6 +1,6 @@
 ### Rakuten Mini(C330)用eSIM有効化モジュール(+α)
 
-Rakuten Mini(C330)に焼いたPieのGSIでeSIMを管理できるようしたりするモジュールです
+Rakuten Mini(C330)に焼いたPieのGSIでeSIMを管理できるようしたりするモジュールです\n
 forked by AndroPlus-org/magisk-module-c330-gsi
 
 ## 機能一覧
