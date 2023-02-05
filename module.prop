@@ -1,6 +1,6 @@
-id=c330-gsi
-name=KaiRakuten GSI
-version=v04
-versionCode=4
-author=AndroPlus
-description=Rakuten Mini C330 用 Android 10 GSI 向けパッチ
+id=c330-esim-p-alpha
+name=c330 eSIM enabler P(+α)
+version=v0.1
+versionCode=1
+author=r-ca/nemchan
+description=Rakuten Mini(C330)のPieROMでeSIMを使えるようにするモジュール（forked by AndroPlus-org/magisk-module-c330-gsi）

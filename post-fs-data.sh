@@ -31,7 +31,7 @@ chown nfc.nfc /data/data/com.android.nfc/shared_prefs/NfcServicePrefs.xml
 chmod 0660 /data/data/com.android.nfc/shared_prefs/NfcServicePrefs.xml
 
 mkdir -p -m 777 /data/vendor/secure_element
-chown system.system /data/vendor/secure_element
+chown system.system /data/vendor/secure_element 
 
 #Copy original file to the MODDIR
 cp $MAGISKTMP/mirror/system/etc/permissions/platform.xml $MODDIR/system/etc/permissions
